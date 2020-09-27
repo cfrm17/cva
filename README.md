@@ -1,0 +1,2 @@
+# cva
+Credit valuation adjustment (CVA) is the market price of counterparty credit risk that has become a central part of counterparty credit risk management.  By definition, CVA is the difference between the risk-free portfolio value and the true/risky portfolio value. In practice, CVA should be computed at portfolio level. That means calculation should take Master agreement and CSA agreement into account. 
