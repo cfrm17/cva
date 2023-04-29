@@ -145,7 +145,3 @@ CVA=(1-R)∑_(k=1)^N▒〖[PD(t_k )-PD(t_(k-1) )] 〖EE〗^* (t)〗
 References:
 
 https://finpricing.com/lib/FxVolIntroduction.html
-
-https://bitbucket.org/cfrm17/cva/downloads/cva-4.pdf
-
-
